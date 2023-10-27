@@ -33,7 +33,7 @@ data = np.load("Baseball-pitch.npy", allow_pickle=True)
 ```
 @article{fakhfour2023video,
   title={Video alignment using unsupervised learning of local and global features},
-  author={Fakhfour, Niloofar and ShahverdiKondori, Mohammad and Mohammadzade, Hoda},
+  author={Fakhfour, Niloufar and ShahverdiKondori, Mohammad and Mohammadzade, Hoda},
   journal={arXiv preprint arXiv:2304.06841},
   year={2023}
 }
