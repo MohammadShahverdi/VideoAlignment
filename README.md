@@ -15,7 +15,7 @@ Table of Contents
 ## Install Dependency
 You need to install the packages listed in requirements.txt:
 ```shell script
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Extracted features for the Penn dataset 
